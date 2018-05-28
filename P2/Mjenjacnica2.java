@@ -1,7 +1,7 @@
 public class Mjenjacnica2 {
     public static void main(String[] args) {
         ConsoleReader in = new ConsoleReader(System.in);
-        System.out.print("Unesi iznos Eura i centa:");
+        System.out.println("Unesi iznos Eura i centa:");
         System.out.print("Iznos u Eurima =");
         int eura = in.readInt();
         System.out.print("Iznos u Eurima =");
